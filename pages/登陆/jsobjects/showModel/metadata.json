@@ -1,24 +1,15 @@
 {
   "unpublishedCollection": {
-    "name": "JSObject1",
+    "name": "showModel",
     "pageId": "登陆",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "variables": [
-      {
-        "name": "myVar1",
-        "value": "[]"
-      },
-      {
-        "name": "myVar2",
-        "value": "{}"
-      }
-    ],
+    "variables": [],
     "userPermissions": []
   },
-  "id": "登陆_JSObject1",
+  "id": "登陆_showModel",
   "deleted": false,
   "gitSyncId": "64465a73dbc61a19e0eee755_65e1324b1f571b3aade0e93f"
 }

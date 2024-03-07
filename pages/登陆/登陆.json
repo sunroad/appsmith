@@ -29,9 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "登陆_JSObject1.myFun2",
-              "name": "JSObject1.myFun2",
-              "collectionId": "登陆_JSObject1",
+              "id": "登陆_showModel.myFun2",
+              "name": "showModel.myFun2",
+              "collectionId": "登陆_showModel",
               "clientSideExecution": true,
               "confirmBeforeExecute": false,
               "pluginType": "JS",
